@@ -1,8 +1,8 @@
 ﻿/*
  * Integrantes:
  * 
- * Luiz Gustavo Verissimo Monteiro - CB3030326
- * 
+ * ADRIANO JÚNIOR DE SOUZA ALMEIDA - CB3030644
+ * ARTHUR LANZILOTTI FARJANES - CB3031306
  */
 
 using CBTSWE2_TP01;
@@ -10,12 +10,10 @@ using CBTSWE2_TP01.Repositorio;
 using CBTSWE2_TP01.Testes;
 using Microsoft.AspNetCore.Hosting;
 
-// Executa a sua classe de testes
+// Executa a classe de testes
  BooktTest.Executar();
 
-
  Console.ReadLine();
- 
 
 var _repo = new BookRepositoryCSV();
 
