@@ -1,0 +1,13 @@
+# Pastas de build e dependências
+bin/
+obj/
+
+# Pastas e arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+*.dbmdl
+
+# Outros arquivos temporários
+*.log
+*.cache
