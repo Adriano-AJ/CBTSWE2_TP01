@@ -1,10 +1,4 @@
-﻿/*
- * Integrantes:
- * 
- * Luiz Gustavo Verissimo Monteiro - CB3030326
- * 
- */
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
